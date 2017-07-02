@@ -1,6 +1,7 @@
 # Purepoint SCSS guide
-
 > 📚 Guide to writing a modern, maintainable SCSS framework
+
+<img src="https://user-images.githubusercontent.com/12545/27768577-cba84eaa-5f0e-11e7-8a84-dc480af816c1.png" width="100%">
 
 Writing SCSS can be hard. In larger projects it's easy to end up with fragmented messy code. This guide focuses on patterns for writing maintainable SCSS on large projects with multiple developers.
 
